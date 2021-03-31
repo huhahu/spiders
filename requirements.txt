@@ -18,7 +18,7 @@ geohasher==0.1.dev0
 hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
-lxml==4.2.5
+lxml==4.6.3
 mkl-fft==1.0.6
 mkl-random==1.0.1
 more-itertools==7.0.0
